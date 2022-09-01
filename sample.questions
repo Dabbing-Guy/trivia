@@ -1,0 +1,23 @@
+q:Question 1
+    a:Answer
+        p:10
+        c:This is the comment
+    a:A second answer
+        p:20
+        c:This is the better answer
+        This line is ignored because it does not start with any tokens
+q:Question 2
+    a:Answer
+        p:10
+        c:This is the comment
+    a:A second answer
+        p:20
+        c:This is the better answer
+    a:3rd answer
+        p:-2
+        c:This was a very wrong answer
+    a:Answer 4?
+p:23
+                        c:indentation does not matter
+    
+end

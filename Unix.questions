@@ -1,0 +1,31 @@
+q:What command do you use to print the contents of a file or multiple files to the stdout in unix?
+    a:cat
+        c:cat is the correct answer!
+        p:10
+    a:less
+        c:less is a pager. It does not output the contents of the file to the stdout, but rather provides a curses interface for you to read the file.
+        p:2
+    a:echo
+        c:echo just prints what ever is passed to it to the stdout. It does not print any files on its own though.  
+        p:4
+q:What command do you use to create an empty file in unix?
+    a:touch
+        c:touch is the correct answer. If the file already exists and you try to touch it, then it just update the last modified date, "touching it"
+        p:12
+    a:ls
+        c:ls is used to list the files in a directory
+        p:0
+    a:mkfile
+        c:mkfile is not a command in unix
+        p:0
+q:How can you learn more about something in unix?
+    a:man
+        c:man is short for manual. It gives you a basic page in less about a topic.
+        p:15
+    a:info
+        c:info shows you an info page on a given topic. It is a bit more complex than man
+        p:15
+    a:--help/-h
+        c:these are argument that are supported by most programs writen for linux/unix operating systems that tell you more about how to use the command you pass them to.
+        p:10
+end
