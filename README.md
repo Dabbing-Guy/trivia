@@ -4,8 +4,6 @@ Welcome to my Trivia Python project for Computer Science Principals.
 
 This was written using Python 3.9, so it might not work 100% properly on 3.8. I have tried to ensure compatability.
 
-**I am not done with all of the `.questions` files to meet the requirement for 3 questions on the same topic yet**
-
 ## To Run
 
 Install the dependancy:
