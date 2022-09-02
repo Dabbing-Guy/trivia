@@ -1,0 +1,51 @@
+q:What is the capital of Iowa?
+    a:Des Moines
+        p:100
+        c:Des Moines is the capital of Iowa and the most populous city in Iowa
+    a:Cedar Rapids
+        p:10
+        c:Cedar Rapids is the second most populous city in Iowa, but is not the capital
+    a:Iowa City
+        p:10
+        c:Iowa City is not the capital of Iowa, despite its name. It is home to Iowa University, though.
+q:What is the capital of Alabama?
+    a:Montgomery
+        p:100
+        c:Montgomery is the capital of Alabama
+    a:Huntsville
+        p:10
+        c:Huntsville is the most populous city in Alabama, but it is not the capital
+    a:Maycomb
+        p:10
+        c:Maycomb, Alabama is a fictional town that is where To Kill a Mockingbird by Harper Lee takes place
+q:What is the capital of Alaska?
+    a:Iceville
+        p:10
+        c:Iceville is not a real city
+    a:Juneau
+        p:100
+        c:Juneau is the capital of Alaska
+    a:Treton
+        p:10
+        c:Treton is the capital of New Jersey, not Alaska
+q:What is the capital of Ohio?
+    a:Columbus
+        p:100
+        c:Columbus is the capital of Ohio! Good job!
+    a:Tallahassee
+        p:10
+        c:Tallahassee is tha capital of Flordia
+    a:Houston
+        p:10
+        c:Houston is where control center for NASA is, not the capital of Ohio
+q:What is the capital of Washington?
+    a:Olympia
+        p:100
+        c:Olympia is the capital of Washington!
+    a:Seattle
+        p:10
+        c:Dispite being the bigest city in the state, Seattle is not the capital of Washington
+    a:Washington D.C.
+        p:10
+        c:Washington D.C. is the capital of the United States, not Washington
+end       
