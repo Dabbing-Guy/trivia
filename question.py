@@ -1,4 +1,5 @@
 from typing import List
+import copy
 
 
 class Question:
@@ -27,7 +28,7 @@ class Question:
         """Returns the comment for a given answer"""
         answer = answer.lower()
         answer_index = self._answers.index(answer)
-        return self._comments[answer_index]
+        return copy.deepcopy(self._comments[answer_index])
 
     def get_question(self) -> str:
         """Returns the question"""
@@ -35,4 +36,4 @@ class Question:
 
     def get_answers(self) -> List[str]:
         """Returns a list containing all of the answers"""
-        return self._answers
+        return copy.deepcopy(self._answers)
